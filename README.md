@@ -1,4 +1,4 @@
-# Diabetes Patients Prediction System Project
+# Diabetes Patients Prediction Project
 
 ## Aim:
 To predict if a patient is diabetic or not
